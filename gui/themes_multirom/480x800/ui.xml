@@ -93,7 +93,7 @@
 		<resource name="btn_menu_size_d_sel" type="image" filename="btn_menu_size_d_sel" />
 		<resource name="btn_menu_inject" type="image" filename="btn_menu_inject" />
 		<resource name="btn_menu_settings" type="image" filename="btn_menu_settings" />
-		
+
 		<resource name="btn_flat_less" type="image" filename="btn_flat_less" />
 		<resource name="btn_flat_more" type="image" filename="btn_flat_more" />
 		<resource name="btn_flat_ext3" type="image" filename="btn_flat_ext3" />
@@ -110,7 +110,7 @@
 		<resource name="btn_flat_4" type="image" filename="btn_flat_4" />
 		<resource name="btn_flat_5" type="image" filename="btn_flat_5" />
 		<resource name="btn_flat_6" type="image" filename="btn_flat_6" />
-		
+
 		<resource name="btn_raised_clearqueue" type="image" filename="btn_raised_clearqueue" />
 		<resource name="btn_raised_viewqueue" type="image" filename="btn_raised_viewqueue" />
 		<resource name="btn_raised_installscript" type="image" filename="btn_raised_installscript" />
@@ -400,7 +400,7 @@
 		<variable name="ab_btn2m_x" value="352" />
 		<variable name="ab_btn3m_x" value="288" />
 		<variable name="ab_y" value="37" />
-		
+
 		<variable name="ab_menu_y" value="32" />
 		<variable name="ab_menu_inst_x" value="80" />
 		<variable name="ab_menu_sort_x" value="400" />
@@ -411,14 +411,14 @@
 		<variable name="ab_menu_inst_4_y" value="245" />
 		<variable name="ab_menu_inst_5_y" value="309" />
 		<variable name="ab_menu_inst_6_y" value="373" />
-		
+
 		<variable name="btn_float_x" value="379" />
-		
+
 		<variable name="plusdate_x" value="459" />
 		<variable name="mr_change_x" value="382" />
 		<variable name="mr_change_w" value="80" />
 		<variable name="mr_change_h" value="18" />
-		
+
 		<variable name="btn_raised_left_x" value="5" />
 		<variable name="btn_raised_right_x" value="468" />
 		<variable name="btn_rot_2_x" value="238" />
@@ -490,7 +490,7 @@
 		<variable name="mb_row7_y" value="607" />
 		<variable name="mb_row8_y" value="687" />
 		<variable name="mb_row9_y" value="767" />
-		
+
 		<variable name="bs_row1_y" value="331" />
 		<variable name="bs_row2_y" value="395" />
 		<variable name="bs_row3_y" value="459" />
