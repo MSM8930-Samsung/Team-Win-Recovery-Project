@@ -11,25 +11,25 @@
 	</details>
 
 	<resources>
-		<resource name="font" type="font" filename="RobotoRegular.ttf" size="17" />
-		<resource name="mediumfont" type="font" filename="RobotoRegular.ttf" size="23" />
-		<resource name="filelist" type="font" filename="RobotoRegular.ttf" size="26" />
-		<resource name="status" type="font" filename="RobotoMedium.ttf" size="17" />
+		<resource name="font" type="font" filename="RobotoRegular.ttf" size="18" />
+		<resource name="mediumfont" type="font" filename="RobotoRegular.ttf" size="18" />
+		<resource name="filelist" type="font" filename="RobotoRegular.ttf" size="18" />
+		<resource name="status" type="font" filename="RobotoMedium.ttf" size="18" />
 		<resource name="caption" type="font" filename="RobotoMedium.ttf" size="16" />
 		<resource name="body1" type="font" filename="RobotoRegular.ttf" size="19" />
 		<resource name="body2" type="font" filename="RobotoMedium.ttf" size="19" />
 		<resource name="subhead" type="font" filename="RobotoRegular.ttf" size="23" />
 		<resource name="menu" type="font" filename="RobotoMedium.ttf" size="19" />
 		<resource name="title" type="font" filename="RobotoMedium.ttf" size="27" />
-		<resource name="fixed" type="font" filename="DroidSansMono.ttf" size="16" />
+		<resource name="fixed" type="font" filename="DroidSansMono.ttf" size="13" />
 		<resource name="font_l" type="font"  filename="RobotoMedium.ttf" size="23" />
 		<resource name="font_m" type="font" filename="RobotoMedium.ttf" size="19" />
 		<resource name="font_s" type="font" filename="RobotoMedium.ttf" size="16" />
 
-		<font name="keylabel" filename="RobotoRegular.ttf" size="26"/>
-		<font name="keylabel-small" filename="RobotoRegular.ttf" size="19"/>
+		<font name="keylabel" filename="RobotoRegular.ttf" size="29"/>
+		<font name="keylabel-small" filename="RobotoRegular.ttf" size="20"/>
 		<font name="keylabel-longpress" filename="RobotoRegular.ttf" size="14"/>
-		
+
 		<resource name="statusbar" type="image" filename="statusbar" />
 		<resource name="actionbar" type="image" filename="actionbar" />
 		<resource name="actionbar_tab" type="image" filename="actionbar_tab" />
@@ -67,14 +67,14 @@
 		<resource name="actionbar_edit_hl" type="image" filename="actionbar_edit_hl" />
 		<resource name="actionbar_close" type="image" filename="actionbar_close" />
 		<resource name="actionbar_close_hl" type="image" filename="actionbar_close_hl" />
-		
+
 		<resource name="btn_float_addtoqueue" type="image" filename="btn_float_addtoqueue" />
 		<resource name="btn_float_addtoqueue_hl" type="image" filename="btn_float_addtoqueue_hl" />
 		<resource name="btn_float_flashifyinfo" type="image" filename="btn_float_flashifyinfo" />
 		<resource name="btn_float_flashifyinfo_hl" type="image" filename="btn_float_flashifyinfo_hl" />
 		<resource name="btn_float_accept" type="image" filename="btn_float_accept" />
 		<resource name="btn_float_folder" type="image" filename="btn_float_folder" />
-		
+
 		<resource name="btn_menu_zip" type="image" filename="btn_menu_zip" />
 		<resource name="btn_menu_zip_sel" type="image" filename="btn_menu_zip_sel" />
 		<resource name="btn_menu_img" type="image" filename="btn_menu_img" />
@@ -157,15 +157,15 @@
 		<resource name="btn_raised_mr_addfile" type="image" filename="btn_raised_mr_addfile" />
 		<resource name="btn_raised_mr_selectimage" type="image" filename="btn_raised_mr_selectimage" />
 		<resource name="btn_raised_mr_restorecon" type="image" filename="btn_raised_mr_restorecon" />
-		
+
 		<resource name="btn_appenddate" type="image" filename="btn_appenddate" />
-		
+
 		<resource name="background" type="image" filename="background" />
 		<resource name="divider" type="image" filename="divider" />
 		<resource name="divider_list" type="image" filename="divider_list" />
 		<resource name="divider_wide" type="image" filename="divider_wide" />
 		<resource name="hider_ab_ex" type="image" filename="hider_ab_ex" />
-		
+
 		<resource name="dialog_bg" type="image" filename="dialog_bg" />
 		<resource name="dialog_label_storage" type="image" filename="dialog_label_storage" />
 		<resource name="dialog_label_bookmark" type="image" filename="dialog_label_bookmark" />
@@ -177,15 +177,15 @@
 		<resource name="dialog_label_offset" type="image" filename="dialog_label_offset" />
 		<resource name="dialog_label_removetheme" type="image" filename="dialog_label_removetheme" />
 		<resource name="dialog_label_warning" type="image" filename="dialog_label_warning" />
-		
+
 		<resource name="menu_install" type="image" filename="menu_install" />
 		<resource name="menu_sort" type="image" filename="menu_sort" />
-		
+
 		<resource name="db_ok" type="image" filename="db_ok" />
 		<resource name="db_ok_hl" type="image" filename="db_ok_hl" />
 		<resource name="db_cancel" type="image" filename="db_cancel" />
 		<resource name="db_cancel_hl" type="image" filename="db_cancel_hl" />
-		
+
 		<resource name="bs_bg" type="image" filename="bs_bg" />
 		<resource name="bs_btn_copy" type="image" filename="bs_btn_copy" />
 		<resource name="bs_btn_cut" type="image" filename="bs_btn_cut" />
@@ -195,7 +195,7 @@
 		<resource name="bs_btn_delete" type="image" filename="bs_btn_delete" />
 		<resource name="bs_btn_rename" type="image" filename="bs_btn_rename" />
 		<resource name="bs_close" type="image" filename="bs_close" />
-		
+
 		<resource name="bc_install" type="image" filename="bc_install" />
 		<resource name="bc_install_zip" type="image" filename="bc_install_zip" />
 		<resource name="bc_install_zip_m" type="image" filename="bc_install_zip_m" />
@@ -221,7 +221,7 @@
 		<resource name="bc_dumlock" type="image" filename="bc_dumlock" />
 		<resource name="bc_multirom" type="image" filename="bc_multirom" />
 		<resource name="bc_multiromsettings" type="image" filename="bc_multiromsettings" />
-		
+
 		<resource name="mb_empty" type="image" filename="mb_empty" />
 		<resource name="mb_empty_s" type="image" filename="mb_empty_s" />
 		<resource name="mb_install" type="image" filename="mb_install" />
@@ -246,7 +246,7 @@
 		<resource name="mb_reinjecttwrp" type="image" filename="mb_reinjecttwrp" />
 		<resource name="mb_partsdcard" type="image" filename="mb_partsdcard" />
 		<resource name="mb_multirom" type="image" filename="mb_multirom" />
-		
+
 		<resource name="mb_install_color" type="image" filename="mb_install_color" />
 		<resource name="mb_wipe_color" type="image" filename="mb_wipe_color" />
 		<resource name="mb_backup_color" type="image" filename="mb_backup_color" />
@@ -269,7 +269,7 @@
 		<resource name="mb_reinjecttwrp_color" type="image" filename="mb_reinjecttwrp_color" />
 		<resource name="mb_partsdcard_color" type="image" filename="mb_partsdcard_color" />
 		<resource name="mb_multirom_color" type="image" filename="mb_multirom_color" />
-		
+
 		<resource name="icon_info" type="image" filename="icon_info" />
 		<resource name="icon_warning" type="image" filename="icon_warning" />
 		<resource name="icon_person" type="image" filename="icon_person" />
@@ -278,16 +278,16 @@
 		<resource name="icon_cake" type="image" filename="icon_cake" />
 		<resource name="icon_color" type="image" filename="icon_color" />
 		<resource name="icon_confirm" type="image" filename="icon_confirm" />
-		
+
 		<resource name="file_icon" type="image" filename="file" />
 		<resource name="folder_icon" type="image" filename="folder" />
 		<resource name="unlock_icon" type="image" filename="unlock_icon" />
 		<resource name="folder_icon_mr" type="image" filename="folder_mr" />
-		
+
 		<resource name="progress" type="animation" filename="indeterminate" />
 		<resource name="progress_empty" type="image" filename="progress_empty" />
 		<resource name="progress_fill" type="image" filename="progress_fill" />
-		
+
 		<resource name="checkbox_false" type="image" filename="checkbox_false" />
 		<resource name="checkbox_true" type="image" filename="checkbox_true" />
 		<resource name="checkbox_false_d" type="image" filename="checkbox_false_d" />
@@ -296,19 +296,19 @@
 		<resource name="radio_true" type="image" filename="radio_true" />
 		<resource name="radio_false_d" type="image" filename="radio_false_d" />
 		<resource name="radio_true_d" type="image" filename="radio_true_d" />
-		
+
 		<resource name="home" type="image" filename="home" />
 		<resource name="home_hl" type="image" filename="home_hl" />
 		<resource name="back" type="image" filename="back" />
 		<resource name="back_hl" type="image" filename="back_hl" />
 		<resource name="slideout" type="image" filename="slideout" />
 		<resource name="slideout_hl" type="image" filename="slideout_hl" />
-		
+
 		<resource name="slider" type="image" filename="slider" />
 		<resource name="slider_used" type="image" filename="slider_used" />
 		<resource name="handle" type="image" filename="handle" />
 		<resource name="handle_h" type="image" filename="handle_h" />
-		
+
 		<image name="backspace" filename="backspace" retainaspect="1"/>
 		<image name="enter" filename="enter" retainaspect="1"/>
 		<image name="shift" filename="shift" retainaspect="1"/>
@@ -327,7 +327,7 @@
 		<resource name="input_line_fail_dialog_encr" type="image" filename="input_line_fail_dialog_encr" />
 		<resource name="input_line_fail_decr" type="image" filename="input_line_fail_decr" />
 		<resource name="input_line_fail_romname" type="image" filename="input_line_fail_romname" />
-		
+
 		<resource name="tab_misc" type="image" filename="tab_misc" />
 		<resource name="tab_misc_a" type="image" filename="tab_misc_a" />
 		<resource name="tab_display" type="image" filename="tab_display" />
@@ -390,7 +390,7 @@
 		<variable name="battery_x_m" value="400" />
 		<variable name="time_x" value="471" />
 		<variable name="status_info_y" value="3" />
-		
+
 		<variable name="ab_back_x" value="5" />
 		<variable name="ab_bc_x" value="69" />
 		<variable name="ab_btn1_x" value="410" />
@@ -423,7 +423,7 @@
 		<variable name="btn_raised_right_x" value="468" />
 		<variable name="btn_rot_2_x" value="238" />
 		<variable name="btn_rot_3_x" value="242" />
-		
+
 		<variable name="row0_y" value="107" />
 		<variable name="row0_a_y" value="120" />
 		<variable name="row1_1_y" value="133" />
@@ -480,7 +480,7 @@
 		<variable name="row_tz_y" value="171" />
 		<variable name="row_ab_ex_y" value="203" />
 		<variable name="row_bs_console_y" value="267" />
-		
+
 		<variable name="mb_row1_y" value="127" />
 		<variable name="mb_row2_y" value="207" />
 		<variable name="mb_row3_y" value="287" />
@@ -498,7 +498,7 @@
 		<variable name="bs_row5_y" value="587" />
 		<variable name="bs_row6_y" value="651" />
 		<variable name="bs_row7_y" value="715" />
-		
+
 		<variable name="progressbar_x" value="0" />
 		<variable name="progressbar_y" value="203" />
 
@@ -862,7 +862,7 @@
 				<image resource="actionbar_tab" />
 				<placement x="0" y="0" />
 			</object>
-			
+
 			<object type="image">
 				<image resource="statusbar" />
 				<placement x="0" y="0" />
