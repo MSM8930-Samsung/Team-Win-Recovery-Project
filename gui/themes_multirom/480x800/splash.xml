@@ -9,7 +9,7 @@
 	</details>
 
 	<resources>
-		<font name="font_l" filename="RobotoMedium.ttf" size="23"/>
+		<font name="font_l" filename="RobotoMedium.ttf" size="18"/>
 		<image name="splashlogo" filename="splashlogo" retainaspect="1"/>
 		<image name="splashmiri" filename="splashmiri" retainaspect="1"/>
 	</resources>
